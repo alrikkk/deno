@@ -1,4 +1,4 @@
-*deno*
+**deno**
 This is very cool.
 
 ## What we are doing.
